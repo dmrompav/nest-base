@@ -1,5 +1,7 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="https://sequelize.org/" target="blank"><img src="https://sequelize.org/img/logo.svg" width="200" alt="Sequelize Logo" /></a>
+  <a href="https://www.postgresql.org/" target="blank"><img src="https://www.postgresql.org//media/img/about/press/elephant.png" width="200" alt="PostgreSQL Logo" /></a>
 </p>
 
 # NEST-SERVER-BASE
