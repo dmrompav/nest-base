@@ -6,7 +6,7 @@
 
 ## Description
 
-Simple app with [Nest](https://github.com/nestjs/nest) (login-logout, jwt).
+Simple server app with [Nest](https://github.com/nestjs/nest) (login-logout, jwt).
 
 ## Installation
 
@@ -31,20 +31,7 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
 ## Stay in touch
 
-- Author - [Dmitrii Pavlov](https://kamilmysliwiec.com)
+- Author - [Dmitrii Pavlov](https://github.com/dmrompav)
 - Client App - [vue-clien-base](https://github.com/dmrompav/vue-client-base)
